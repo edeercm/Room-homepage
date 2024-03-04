@@ -15,7 +15,8 @@ const Hamburger = () => {
         type="button"
         data-bs-toggle="offcanvas"
         data-bs-target="#offcanvasTop"
-        aria-controls="offcanvasTop">
+        aria-controls="offcanvasTop"
+      >
         <img
           src={hamburger}
           alt="hamburger-icon"
